@@ -32,5 +32,5 @@ function DirectLink() {
         calculateHelper = calculateHelper + 1;
     }
     copyToClipboard(userInputWord)
-    alert("Your word is ready! If it doesn't work, try shorter words and lesser power.")
+    alert("Your words are ready! If it doesn't work, try shorter word or less power amount.")
 }
